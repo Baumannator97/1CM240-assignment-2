@@ -22,7 +22,8 @@ from pyvrp import Model#, read
 #)
 from pyvrp.stop import MaxIterations, MaxRuntime
 
-
+print("KEtamine")
+print
 
 #This is the openAI gym implementation of our assignment.
 class AI4LEnvironment(gym.Env):
